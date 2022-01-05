@@ -8,7 +8,7 @@ import 'package:http/http.dart' as http;
 import 'package:shared_preferences/shared_preferences.dart';
 
 void main() {
-  runApp(MyForm());
+  runApp(MyFor());
 }
 
 class MyForm extends StatefulWidget {
